@@ -76,5 +76,3 @@ Sample relationship betwen nodes in the neo4j graph database:
 ## Conclusion
 
 This project demonstrates an end-to-end capability to extract, organize, and query complex financial filing data using modern knowledge graphs and retrieval-augmented generation methods. It highlights the potential of combining graph databases with LLMs for enhanced financial data analysis and decision-making support.
-# Knowledge-Graph-Based-Retrieval-Augmented-Generation-RAG-System
-# Knowledge-Graph-Based-Retrieval-Augmented-Generation-RAG-System
